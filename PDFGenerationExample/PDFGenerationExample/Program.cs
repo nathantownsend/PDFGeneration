@@ -27,6 +27,7 @@ namespace PDFGenerationExample
 
         private static string GenerateContentFromDatabase()
         {
+            
             string[] sections = new string[] { "First", "Second", "Third" };
             string[] pages = new string[] { "Page 1", "Page 2", "Page 3" };
             Dictionary<string, string> rules = new Dictionary<string, string>();
