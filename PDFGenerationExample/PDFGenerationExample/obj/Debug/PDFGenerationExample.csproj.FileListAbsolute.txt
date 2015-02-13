@@ -1,0 +1,11 @@
+C:\Users\cb0290\Documents\GitHub\PDFGeneration\PDFGenerationExample\PDFGenerationExample\bin\Debug\PDFGenerationExample.exe.config
+C:\Users\cb0290\Documents\GitHub\PDFGeneration\PDFGenerationExample\PDFGenerationExample\bin\Debug\PDFGenerationExample.exe
+C:\Users\cb0290\Documents\GitHub\PDFGeneration\PDFGenerationExample\PDFGenerationExample\bin\Debug\PDFGenerationExample.pdb
+C:\Users\cb0290\Documents\GitHub\PDFGeneration\PDFGenerationExample\PDFGenerationExample\obj\Debug\PDFGenerationExample.csprojResolveAssemblyReference.cache
+C:\Users\cb0290\Documents\GitHub\PDFGeneration\PDFGenerationExample\PDFGenerationExample\obj\Debug\PDFGenerationExample.exe
+C:\Users\cb0290\Documents\GitHub\PDFGeneration\PDFGenerationExample\PDFGenerationExample\obj\Debug\PDFGenerationExample.pdb
+C:\Users\cb0290\Documents\GitHub\PDFGeneration\PDFGenerationExample\PDFGenerationExample\bin\Debug\itextsharp.dll
+C:\Users\cb0290\Documents\GitHub\PDFGeneration\PDFGenerationExample\PDFGenerationExample\bin\Debug\itextsharp.pdfa.dll
+C:\Users\cb0290\Documents\GitHub\PDFGeneration\PDFGenerationExample\PDFGenerationExample\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\cb0290\Documents\GitHub\PDFGeneration\PDFGenerationExample\PDFGenerationExample\bin\Debug\itextsharp.xtra.dll
+C:\Users\cb0290\Documents\GitHub\PDFGeneration\PDFGenerationExample\PDFGenerationExample\bin\Debug\itextsharp.xml
